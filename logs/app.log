@@ -1,0 +1,2 @@
+2026-05-25 21:55:05,487 - ERROR - Model Loading Error: [Errno 2] No such file or directory: 'app/models/forecast_model.pkl'
+2026-05-25 21:55:06,401 - INFO - Anomaly detection model loaded successfully

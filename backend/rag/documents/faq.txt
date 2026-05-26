@@ -1,0 +1,91 @@
+Retail Sales Industry FAQ
+
+Q1. What is retail sales?
+Retail sales refer to the sale of goods and services directly to customers for personal use.
+
+Q2. What is a retail sales forecasting system?
+A retail sales forecasting system predicts future sales using historical transaction data, trends, and machine learning models.
+
+Q3. Why is sales forecasting important in retail?
+Sales forecasting helps businesses manage inventory, reduce losses, optimize staffing, and improve decision-making.
+
+Q4. What factors affect retail sales?
+Retail sales are affected by holidays, weather, promotions, customer demand, pricing, seasonality, and economic conditions.
+
+Q5. What is inventory management?
+Inventory management tracks stock levels, product movement, and warehouse availability to avoid overstocking or shortages.
+
+Q6. What is SKU in retail?
+SKU stands for Stock Keeping Unit. It is a unique identifier assigned to each product.
+
+Q7. What is customer segmentation?
+Customer segmentation divides customers into groups based on purchasing behavior, demographics, or preferences.
+
+Q8. What is Average Order Value (AOV)?
+Average Order Value is the average amount spent by customers per transaction.
+
+Q9. What is demand forecasting?
+Demand forecasting predicts future customer demand for products.
+
+Q10. What is shrinkage in retail?
+Shrinkage refers to inventory loss caused by theft, damage, or administrative errors.
+
+Q11. What are the common payment methods in retail?
+Common payment methods include cash, credit cards, debit cards, UPI, wallets, and net banking.
+
+Q12. What is dynamic pricing?
+Dynamic pricing automatically changes product prices based on demand, competition, and market conditions.
+
+Q13. What is point of sale (POS)?
+POS is the system used to process customer purchases and manage transactions.
+
+Q14. What is a retail recommendation system?
+A recommendation system suggests products to customers based on purchase history and preferences.
+
+Q15. What is a loyalty program?
+A loyalty program rewards repeat customers with discounts, points, or exclusive benefits.
+
+Q16. What is stock replenishment?
+Stock replenishment is the process of refilling inventory when stock levels become low.
+
+Q17. What is seasonal demand?
+Seasonal demand refers to changes in product demand during specific times of the year.
+
+Q18. What is retail analytics?
+Retail analytics uses data analysis to improve sales, operations, and customer experience.
+
+Q19. What is sales trend analysis?
+Sales trend analysis identifies patterns and changes in sales performance over time.
+
+Q20. What is customer retention?
+Customer retention measures a company’s ability to keep existing customers over time.
+
+Q21. What is cross-selling?
+Cross-selling encourages customers to buy related or complementary products.
+
+Q22. What is upselling?
+Upselling encourages customers to purchase higher-value products or upgrades.
+
+Q23. What is supply chain management?
+Supply chain management handles product sourcing, manufacturing, transportation, and delivery.
+
+Q24. What is basket analysis?
+Basket analysis identifies products frequently purchased together.
+
+Q25. What is an out-of-stock situation?
+An out-of-stock situation occurs when a product is unavailable for customers.
+
+Q26. What is markdown pricing?
+Markdown pricing reduces product prices to clear inventory or increase sales.
+
+Q27. What is return on investment (ROI)?
+ROI measures profitability compared to investment costs.
+
+Q28. What is customer lifetime value (CLV)?
+CLV estimates the total revenue generated from a customer during their relationship with a business.
+
+Q29. What is omnichannel retail?
+Omnichannel retail integrates online and offline shopping experiences for customers.
+
+Q30. What is AI in retail sales?
+AI in retail sales helps with forecasting, customer support, recommendation systems, fraud detection, and inventory optimization.

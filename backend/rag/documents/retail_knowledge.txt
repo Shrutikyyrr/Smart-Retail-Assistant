@@ -1,0 +1,122 @@
+# retail_knowledge.txt
+
+Smart Retail Assistant Knowledge Base
+
+Retail analytics helps businesses monitor sales, inventory, customer behavior, and operational efficiency. A smart retail system combines machine learning, forecasting, recommendation systems, and AI-powered assistants to improve decision-making.
+
+Key Retail Metrics:
+
+* Revenue: Total money earned from product sales.
+* Profit: Revenue minus operational and product costs.
+* Inventory Level: Number of items currently available in stock.
+* Average Order Value (AOV): Revenue divided by total orders.
+* Customer Retention Rate: Percentage of returning customers.
+* Forecasted Sales: Predicted future sales using machine learning models.
+
+Retail Product Categories:
+
+* Electronics
+* Clothing
+* Groceries
+* Home Decor
+* Beauty Products
+* Sports Equipment
+
+Customer Types:
+
+* New Customer
+* Returning Customer
+* Premium Customer
+* Guest Customer
+
+Payment Methods:
+
+* Credit Card
+* Debit Card
+* UPI
+* Cash
+* Net Banking
+* Wallet
+
+Common Retail Operations:
+
+1. Inventory Management
+2. Sales Forecasting
+3. Customer Analytics
+4. Demand Prediction
+5. Fraud Detection
+6. Recommendation Systems
+7. Supply Chain Monitoring
+8. Dynamic Pricing
+
+Machine Learning in Retail:
+
+* Regression models are used for sales prediction.
+* Classification models are used for customer segmentation.
+* Clustering algorithms identify customer groups.
+* Time-series forecasting predicts future sales trends.
+* Recommendation systems suggest products to customers.
+
+Retail Forecasting Factors:
+
+* Temperature
+* Holiday Flag
+* Fuel Price
+* CPI (Consumer Price Index)
+* Unemployment Rate
+* Seasonal Demand
+* Discounts and Promotions
+
+Benefits of Smart Retail Systems:
+
+* Improved inventory management
+* Reduced stock shortages
+* Better customer experience
+* Accurate sales forecasting
+* Data-driven business decisions
+* Automated customer support using AI assistants
+
+RAG (Retrieval-Augmented Generation) in Retail:
+RAG systems retrieve relevant business documents and combine them with LLM responses to provide accurate answers. Retail chatbots use RAG for answering FAQs, product queries, inventory details, and sales insights.
+
+Vector Databases:
+Vector databases store embeddings generated from retail documents. FAISS is commonly used for semantic search in RAG systems.
+
+Embeddings:
+Embeddings convert text into numerical vectors for similarity search. SentenceTransformers and HuggingFace embedding models are commonly used.
+
+LangChain Components:
+
+* Document Loaders
+* Text Splitters
+* Embedding Models
+* Vector Stores
+* Retrieval Chains
+* LLM Integrations
+
+FastAPI in Retail Systems:
+FastAPI is used to build APIs for:
+
+* Sales forecasting
+* Data ingestion
+* Recommendation systems
+* RAG chatbots
+* Inventory monitoring
+
+MongoDB Usage:
+MongoDB stores:
+
+* Retail transactions
+* Inventory data
+* Customer details
+* Forecast outputs
+* Product catalogs
+
+Best Practices:
+
+* Validate API input using Pydantic.
+* Use feature engineering before ML training.
+* Save trained models using joblib.
+* Store embeddings efficiently.
+* Monitor prediction accuracy regularly.
+

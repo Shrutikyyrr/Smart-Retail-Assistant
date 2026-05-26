@@ -1,0 +1,29 @@
+Retail Sales Report 2025
+
+Executive Summary:
+RetailMind AI analyzed customer transactions, sales trends, and inventory patterns for 2025.
+
+Key Findings:
+1. Electronics category achieved the highest revenue growth.
+2. Weekend sales increased by 22%.
+3. Holiday discounts improved customer purchases significantly.
+4. Young customers aged 18-35 were the highest contributors.
+5. Some transactions showed unusual spikes indicating anomalies.
+
+Forecast Insights:
+- Sales are expected to increase during festive seasons.
+- Electronics and clothing categories may dominate next quarter sales.
+- Inventory demand is expected to rise before holidays.
+
+Anomaly Insights:
+- High-value purchases above expected patterns were flagged.
+- Sudden inventory drops were detected in some stores.
+
+Business Recommendations:
+- Increase inventory before festive seasons.
+- Provide targeted discounts to loyal customers.
+- Monitor anomaly alerts regularly.
+- Improve demand forecasting using ML models.
+
+Conclusion:
+AI-powered retail analytics improves operational efficiency, customer satisfaction, and revenue growth.
